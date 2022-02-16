@@ -6,3 +6,4 @@
 ### **StrawLib Project » [Strawberry-Software-Industries/StrawLib](https://github.com/Strawberry-Software-Industries/SecureCloud)**
 ### **ledcontrol Project » [Strawberry-Software-Industries/ledcontrol](https://github.com/Strawberry-Software-Industries/ledcontrol)**
 ### **build Project » [Strawberry-Software-Industries/build](https://github.com/Strawberry-Software-Industries/build)**
+### **sup3 Project » [Strawberry-Software-Industries/sup3](https://github.com/Strawberry-Software-Industries/sup3)**
