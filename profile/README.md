@@ -1,9 +1,6 @@
-## Strawberry Software Industries - High Quality Software!
+# Strawberry Software Industries - High Quality Software!
 ![](https://raw.githubusercontent.com/Strawberry-Software-Industries/.github/main/banner.png)
 
-## Popular Projects
-### **SecureCloud Project » [Strawberry-Software-Industries/SecureCloud](https://github.com/Strawberry-Software-Industries/SecureCloud)**
-### **StrawLib Project » [Strawberry-Software-Industries/StrawLib](https://github.com/Strawberry-Software-Industries/SecureCloud)**
-### **ledcontrol Project » [Strawberry-Software-Industries/ledcontrol](https://github.com/Strawberry-Software-Industries/ledcontrol)**
-### **build Project » [Strawberry-Software-Industries/build](https://github.com/Strawberry-Software-Industries/build)**
-### **sup3 Project » [Strawberry-Software-Industries/sup3](https://github.com/Strawberry-Software-Industries/sup3)**
+### You want free and open source software? Come to Strawberry Software Industries!
+We develop on our projects every day. And we also make sure that users have freedom!<br>
+If you need help, you can join our Discord server » **[Discord/Strawberry-Software-Industries](https://discord.gg/efF9vNmSwe)**
